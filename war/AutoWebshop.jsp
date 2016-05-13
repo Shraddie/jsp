@@ -94,8 +94,8 @@ div#autoselectie {
 				}
 			%>
 		</select> <input type="number" placeholder="Minimum prijs" name="min">
-		<input type="number" placeholder="Maximum prijs" name="max"> <input
-			type="submit" value="OK" name="OK">
+		<input type="number" placeholder="Maximum prijs" name="max"> 
+		<input type="submit" value="OK" name="OK">
 	</form>
 	<%
 		int min = 0;
